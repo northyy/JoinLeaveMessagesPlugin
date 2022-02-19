@@ -1,4 +1,4 @@
-🚪 JoinLeaveMessages - Prosty plugin do zarządzania wiadomościami o wejściu i wyjściu.
+🚪 JoinLeaveMessages - Prosty plugin do zarządzania wiadomościami o wejściu i wyjściu.\n
 ⏰ Aktualna wersja: 1.0-STABLE
 
 💾 Pobierz .jar stąd: https://northy.fun/joinleavemessages.html
