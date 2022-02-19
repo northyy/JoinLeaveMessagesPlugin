@@ -3,7 +3,7 @@ version: '${project.version}'
 main: fun.northy.joinleavemessages.general.JoinLeaveMessages
 softdepend: [ PlaceholderAPI ]
 authors: [ northy ]
-description: Plugin na customowe wiadomości przy wchodzeniu i wychodzeniu na serwer
+description: Prosty plugin do zarzadzania wiadomosciami o wejsciu i wyjsciu
 website: northy.fun
 commands:
   jlm:

@@ -6,20 +6,12 @@
 
     <groupId>fun.northy</groupId>
     <artifactId>JoinLeaveMessages</artifactId>
-<<<<<<< HEAD
-    <version>0.1</version>
-=======
-    <version>1.0</version>
->>>>>>> 98be4c0 (v1.0-STABLE)
+    <version>1.0-STABLE</version>
     <packaging>jar</packaging>
 
     <name>JoinLeaveMessages</name>
 
-<<<<<<< HEAD
-    <description>Simple plugin to manage join and leave messages</description>
-=======
     <description>Prosty plugin do zarzadzania wiadomosciami o wejsciu i wyjsciu (Minecraft)</description>
->>>>>>> 98be4c0 (v1.0-STABLE)
     <properties>
         <java.version>1.8</java.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
