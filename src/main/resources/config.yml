@@ -1,5 +1,5 @@
 # Konfiguracja pluginu JoinLeaveMessages
-# v0.1 by northy_
+# v1.0-STABLE by northy_
 
 permissions:
   reload: 'jlm.reload'

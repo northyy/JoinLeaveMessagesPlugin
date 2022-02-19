@@ -1,3 +1,5 @@
+// Glowna komenda pluginu
+
 package fun.northy.joinleavemessages.commands;
 
 import fun.northy.joinleavemessages.configs.ConfigManager;

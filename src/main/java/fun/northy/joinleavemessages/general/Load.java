@@ -1,3 +1,5 @@
+// Ladowanie wszystkich funkcji pluginu
+
 package fun.northy.joinleavemessages.general;
 
 import fun.northy.joinleavemessages.commands.MainCommand;

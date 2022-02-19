@@ -1,3 +1,5 @@
+// Konfiguracja - config.yml
+
 package fun.northy.joinleavemessages.configs;
 
 import fun.northy.joinleavemessages.general.JoinLeaveMessages;

@@ -1,3 +1,5 @@
+// Upraszczanie obslugi kolorow
+
 package fun.northy.joinleavemessages.utils;
 
 import org.bukkit.ChatColor;

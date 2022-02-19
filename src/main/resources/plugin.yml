@@ -7,4 +7,4 @@ description: Prosty plugin do zarzadzania wiadomosciami o wejsciu i wyjsciu
 website: northy.fun
 commands:
   jlm:
-    aliases: ['joinleavemessages', 'jlmessages']
+    aliases: ['joinleavemessages', 'jlmessages', 'jlmess']

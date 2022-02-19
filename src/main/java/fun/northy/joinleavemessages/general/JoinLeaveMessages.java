@@ -1,3 +1,5 @@
+// Glowna klasa pluginu
+
 package fun.northy.joinleavemessages.general;
 
 import org.bukkit.Bukkit;

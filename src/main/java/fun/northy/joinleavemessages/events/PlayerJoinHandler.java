@@ -1,3 +1,5 @@
+// Event wejscia gracza na serwer
+
 package fun.northy.joinleavemessages.events;
 
 import fun.northy.joinleavemessages.configs.ConfigManager;
