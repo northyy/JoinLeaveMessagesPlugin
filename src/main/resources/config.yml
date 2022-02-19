@@ -1,0 +1,21 @@
+# Konfiguracja pluginu JoinLeaveMessages
+# v0.1 by northy_
+
+permissions:
+  reload: 'jlm.reload'
+
+messages:
+  nopermission: '&cNie masz uprawnien!'
+  reloaded: '&aPlugin JoinLeaveMessages zostal przeladowany!'
+  mainCommand:
+    correctUsage: '&cPoprawne uzycie: /jlm reload'
+
+joinMessage:
+  enabled: true
+  custom: true
+  customMessage: '&d%player_name% &7dolaczyl na serwer!'
+
+leaveMessage:
+  enabled: true
+  custom: true
+  customMessage: '&d%player_name% &7wyszedl z serwera!'
